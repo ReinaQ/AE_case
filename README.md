@@ -1,1 +1,1 @@
-# Case Solution with Big Query
+# Case Solution with BigQuery
